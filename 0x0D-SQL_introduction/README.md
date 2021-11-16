@@ -1,4 +1,5 @@
 ##General
+
 ** What’s a database
 ** What’s a relational database
 ** What does SQL stand for
