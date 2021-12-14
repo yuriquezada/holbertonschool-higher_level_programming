@@ -1,3 +1,3 @@
 #!/usr/bin/node
-const count = process.argv;
-console.log(!count[2] ? 'No argument' : count[2]);
+const argument = process.argv;
+console.log(!argument[2] ? 'No argument' : argument[2]);
