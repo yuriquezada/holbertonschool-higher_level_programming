@@ -4,6 +4,7 @@
 # Usage: ./13-model_state_delete_a.py <mysql username> /
 #                                     <mysql password> /
 #                                     <database name>
+"""Start link class to table in database"""
 import sys
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
